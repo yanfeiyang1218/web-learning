@@ -1,0 +1,27 @@
+{
+  "name": "frontend-learning",
+  "version": "1.0.0",
+  "description": "前端学习仓库",
+  "main": "index.js",
+  "scripts": {
+    "tml-cli": "./bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "fs-extra": "^9.0.0",
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/yanfeiyang1218/frontend-learning.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
